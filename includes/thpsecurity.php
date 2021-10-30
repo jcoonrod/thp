@@ -37,4 +37,3 @@ function debug($msg,$x) {
     	echo("<p>Debug $msg: ");print_r($x);echo("</p>\n");
     }
 }
-?>
